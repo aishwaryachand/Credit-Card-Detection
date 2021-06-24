@@ -1,2 +1,2 @@
-# Credit-Card-Detection
+# Credit-Card-Fraud Detection
 Credit Card Detection
